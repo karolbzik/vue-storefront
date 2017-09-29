@@ -13,7 +13,7 @@ Imagine the eCommerce that:
 
 This is the result of such aspirations :) The Discovery project to build PoC of Vue.js storefront, backed by NoSQL database, 100% avaiable offline with Progressive Web Apps support.
 
-More about the goals: https://www.linkedin.com/pulse/magento2-nosql-database-pwa-support-piotr-karwatka
+More about the goals: https://www.linkedin.com/pulse/magento2-nosql-database-pwa-support-piotr-karwatka.
 
 **We're searching for active contributors, eCommerce agencies to work with us on this OSS project**
 
